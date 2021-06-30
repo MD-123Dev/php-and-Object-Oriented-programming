@@ -9,3 +9,4 @@ php and Object-Oriented programming - TP
 + Heritage
 + Interface - implements
 + abstract class
++ encapsulation
